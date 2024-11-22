@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import Person from "./person";
 
 // Write your API key here:
-const APIkey = "9f5e86300478ea6d65335e21698ee5f2";
+const APIkey = "";
 
 const QUERY = "spielberg";
 
